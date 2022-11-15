@@ -7,7 +7,7 @@ We are the quality assurance team at Airbnb. At Airbnb, our company values dicta
 
 ## Table of Contents 
 1. 01_Executive_Summary
-2. 02_Cleaning_EDA
+2. 02_EDA
 3. 03_Modeling
 4. 04_Neural Network Models
 
