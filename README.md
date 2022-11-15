@@ -1,7 +1,7 @@
 # Airbnb-Rating-Prediction
 
 ## Problem Statement
-We are the quality assurance team at Airbnb. At Airbnb, our company values dictate that we consider any review Less than five stars to indicate major issues with the property and/or host. 
+We are the quality assurance team at Airbnb. At Airbnb, our company values dictate that we consider any review less than five stars to indicate major issues with the property and/or host. 
 #### In order to inform our division and provide feedback to hosts, we want to build classification models to predict--based off of either property features or prior reviews--whether a property is poorly or highly rated.  To uphold our stringent expectations for quality, we define poorly rated as less than 4.5 stars and highly rated as greater than 4.9 stars.
 
 
